@@ -7,7 +7,7 @@ public class AccountControllerTest {
         accounts.add(new Account(Name='TestInactiveAccount2', Active__c='Yes'));
         insert accounts;
     }
-
+    //MyBranche
     @isTest
     static void testGetAllActiveAccounts_Positive() {
 
