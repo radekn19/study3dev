@@ -32,4 +32,5 @@ public class AccountControllerTest {
         // Sprawdzenie, czy zwrócona lista jest pusta
         System.assertNotEquals(2, activeAccounts.size(), 'Lista kont aktywnych nie jest pusta, gdy nie powinna być');
     }
+    //CherryPick
 }
