@@ -21,6 +21,7 @@ public class AccountControllerTest {
         System.assertEquals('TestInactiveAccount2', activeAccounts[0].Name, 'Zwrócone złe imie');
 
     }
+    //TestRebaseafterMychangesCommited
 
 
     @isTest
